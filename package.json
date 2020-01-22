@@ -1,0 +1,23 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "A basic url extractor",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amda-phd/web-scraper.git"
+  },
+  "author": "amda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amda-phd/web-scraper/issues"
+  },
+  "homepage": "https://github.com/amda-phd/web-scraper#readme",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
